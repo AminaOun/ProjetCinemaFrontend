@@ -1,0 +1,44 @@
+.clickable{
+    cursor: pointer;
+}
+img{
+    width: 150px;
+    height: 200px;
+}
+.ticket{
+    margin: 5px;
+    width: 40px;
+}
+.list-group{
+    color:rgb(181, 236, 229);
+   
+}
+.list-group-item{
+    background-color: rgb(36, 76, 122) ;
+    
+}
+
+.container{
+    position: relative;
+}
+.b1{
+    position: relative;
+    top: 35px;
+    left: 20px;
+    width: 145px;
+}
+.b2{
+    position: absolute;
+    top: 150px;
+    left: 20px;
+}
+.b3{
+    position: absolute;
+    top: 200px;
+    left: 20px;
+    width: 145px;
+}
+.panel-heading{
+    background-color: #eebb4d;
+    color: white;
+}
